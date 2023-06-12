@@ -59,7 +59,10 @@ const Hero = () => {
                         <h2>Подробнее<BsArrowRight className="block--icon"/></h2>
                     </div>
                 </div>
-                <button className="btn">Все курсы</button>
+                <center>
+                    <button className="btn">Все курсы</button>
+
+                </center>
             </div>
             <div className="java">
                 <h1>Мастер-классы</h1>
